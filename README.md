@@ -7,6 +7,9 @@
 
 - JavaScript
 - React 18
+- Hooks React
+  1. useState
+  2. useEffect
 - Vite JS
 - Tailwind CSS
 - React Developers Tools
